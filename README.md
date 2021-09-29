@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][visualstudio]
 [<img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/66649571/135290149-f20fa278-c408-44de-8b7f-72878c55ed28.png" />][Java]
-[<img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/66649571/135290149-f20fa278-c408-44de-8b7f-72878c55ed28.png" />][Java]
+[<img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/66649571/135292161-95b3b1c4-c836-47b8-b345-f0e28c0de662.png" />][Python]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
 [CSS]
@@ -50,3 +50,4 @@ Here are some ideas to get you started:
 [Java]:https://www.java.com/es/download/help/develop.html
 [Git]:https://git-scm.com/
 [Github]:https://github.com/
+[Python]:https://www.python.org/
