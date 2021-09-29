@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 
 ---
 
-<img align="left" alt="Jose-Calcano GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jose-Calcano&show_icons=true&hide_border=true" />
-
+[![Jose-Calcano GitHub stats](https://github-readme-stats.vercel.app/api?username=Jose-Calcano)](https://github.com/Jose-Calcano/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Calcano)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]:https://www.linkedin.com/in/jose-francisco-calca%C3%B1o/
 [instagram]:https://www.instagram.com/jose_calcano/
