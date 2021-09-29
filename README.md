@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+---
+
 - 🔭 I’m currently working on: my college degree
 - 🌱 I’m currently learning a bit of everything
 - 🥅 2021 Goals: Strive learning new things and improve the way I program
