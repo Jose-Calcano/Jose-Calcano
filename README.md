@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 [<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/66649571/135294003-d70bc671-c660-4cc8-83e5-af7f2f8364d1.png" />][html5]
 [<img align="left" alt="CSS3" width="26px" src="https://user-images.githubusercontent.com/66649571/135294137-87e4c162-9493-466a-ab2d-217887c048ce.png" />][CSS]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JavaScript]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][SQL]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][Github]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][Terminal]
 
 ---
 
@@ -49,3 +49,5 @@ Here are some ideas to get you started:
 [Git]:https://git-scm.com/
 [Github]:https://github.com/
 [Python]:https://www.python.org/
+[SQL]: https://www.microsoft.com/es-es/sql-server/sql-server-downloads
+[Terminal]:https://ubuntu.com/
