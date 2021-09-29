@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][Github]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][Terminal]
+[<img align="left" alt="Linux" width="26px" src="https://user-images.githubusercontent.com/66649571/135295741-6c363b5e-163d-4654-9070-93b82b7d6ec4.png" />][Linux]
 
 <br />
 <br />
@@ -54,3 +55,4 @@ Here are some ideas to get you started:
 [Python]:https://www.python.org/
 [SQL]: https://www.microsoft.com/es-es/sql-server/sql-server-downloads
 [Terminal]:https://ubuntu.com/
+[Linux]: https://github.com/torvalds/linux
