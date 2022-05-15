@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on: my college degree
 - 🌱 I’m currently learning a bit of everything
-- 🥅 2021 Goals: Strive learning new things and improve the way I code
+- 🥅 2022 Goals: Strive learning new things and improve the way I code
 - 💬 Ask me about animals. Probably you will notice that im a fanboy and lover of them
 - ⚡ Fun fact: The population of Uruguay is 3.457.000. Only in Australia are 47M kangaroos. If the kangaroos decide to invade Uruguay, every Uruguayan has to fight against 14 kangaroos 🦘
 
