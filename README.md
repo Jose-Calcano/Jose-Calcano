@@ -1,11 +1,11 @@
 ### Hi there, I'm José  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-### I'm a System/Software Engineer Student and Developer 🖥️
+### I'm a undergraduate in Computer Engineering and a Developer 🖥️
 
 ---
 
 - 🔭 I’m currently working on: my college degree
 - 🌱 I’m currently learning a bit of everything
-- 🥅 2022 Goals: Strive learning new things and improve the way I code
+- 🥅 2023 Goals: Strive learning new things and improve the way I code
 - 💬 Ask me about animals. Probably you will notice that im a fanboy and lover of them
 - ⚡ Fun fact: The population of Uruguay is 3.457.000. Only in Australia are 47M kangaroos. If the kangaroos decide to invade Uruguay, every Uruguayan has to fight against 14 kangaroos 🦘
 
