@@ -13,8 +13,13 @@
 
 ### Where can you find me:
 
-[<img align="left" alt="Jose-Calcano | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Jose-Calcano | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+[![ Twitter][1.1]][1]
+[![Github][6.1]][6]
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?&logo=Github&logoColor=wh)](https://twitter.com/Josecalcano_Dev)
+[![Github](https://img.shields.io/badge/-Github-000?&logo=Github&logoColor=white)]([https://github.com/thewires2](https://github.com/Jose-Calcano))
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jose-francisco-calca%C3%B1o/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:jose.calcano.dev@gmail.com)
 
 <br />
 
