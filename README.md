@@ -21,8 +21,6 @@
 
 ---
 
-<br />
-
 ### Languages and Tools that i use:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://user-images.githubusercontent.com/66649571/135293714-7749618f-b435-4702-920d-1309e839eba8.png" />][visualstudio]
