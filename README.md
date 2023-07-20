@@ -19,6 +19,8 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jose-francisco-calca%C3%B1o/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:jose.calcano.dev@gmail.com)
 
+---
+
 <br />
 
 ### Languages and Tools that i use:
