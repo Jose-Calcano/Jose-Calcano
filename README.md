@@ -14,8 +14,6 @@
 ### Where can you find me:
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-[![ Twitter][1.1]][1]
-[![Github][6.1]][6]
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?&logo=Github&logoColor=wh)](https://twitter.com/Josecalcano_Dev)
 [![Github](https://img.shields.io/badge/-Github-000?&logo=Github&logoColor=white)]([https://github.com/thewires2](https://github.com/Jose-Calcano))
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jose-francisco-calca%C3%B1o/)
