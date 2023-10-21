@@ -40,7 +40,7 @@
 
 ---
 
-[![Jose-Calcano GitHub stats](https://github-readme-stats.vercel.app/api?username=Jose-Calcano)](https://github.com/Jose-Calcano/github-readme-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Jose-Calcano&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Calcano)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]:https://www.linkedin.com/in/jose-francisco-calca%C3%B1o/
